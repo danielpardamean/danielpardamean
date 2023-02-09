@@ -1,9 +1,6 @@
-
 <img alt='Me' width='100px' src='https://raw.githubusercontent.com/danielpardamean/danielpardamean/main/me.png'>
 
 #### Hi, Daniel is here. I'm a fullstack web developer that currently learning mobile development using Flutter
-
-<br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=danielpardamean&theme=vue&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
@@ -20,9 +17,7 @@
 
 <br/>
 <br/>
-<br/>
 
 #### Looking forward to share knowledge in any kind of ways. if you would love to do that, you can find my contacts on ease below.
-<br/>
 <a href='https://www.linkedin.com/in/danielpardamean/'><img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin'/>
 <a href='https://www.instagram.com/daniellbutar/'><img src='https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white' alt='Instagram'/>
